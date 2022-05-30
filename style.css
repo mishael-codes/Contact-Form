@@ -48,13 +48,13 @@ input{
 }
 
 textarea{
+    font-size: large;
     width: 70%;
     height: 200px;
     margin-bottom: 1rem;
     border-radius: 5px;
     border: .5px solid #000080;
     padding: .5rem;
-    font-size: large;
     transition: .5s;
 }
 
